@@ -1,0 +1,11 @@
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.git
+.gitignore
+.env
+*.duckdb
+db/
+IMPLEMENTATION_PLAN.md
+test_technique_DE.pdf
