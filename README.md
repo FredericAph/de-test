@@ -6,6 +6,10 @@ met à jour les personnes existantes lors d'un nouvel envoi, insère les nouveau
 conserve un historique des modifications champ par champ — le tout derrière un unique point
 d'entrée `POST /upload`.
 
+Note : l'architecture du code (choix de la stack & des librairies, différents services, tests, etc.) a été pensée 
+par moi-même pour répondre à l'énoncé fourni, puis implémentée avec opencode en utilisant 
+les modèles Deepseek V4 Pro & Deepseek V4.1 Flash.
+
 ---
 
 ## Architecture
