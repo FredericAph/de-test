@@ -1,0 +1,4 @@
+﻿dataFirstNames;dataLastName;dataEmail;dataPhone;dataFax;dataTitle;dataJobTitle;dataPositionType;dataOrganization;dataJobStartDate;dataURI
+Edgar, Estes;Moises;MoisesE@univ.edu;963.555.2731;963.777.8264;Professor ;Professor of Thermodynamics;Faculty;Geothermal Technology Department;2000;http://vivoweb.org/ontology/core#Department
+Rosella;Burks;;963.555.1253;963.777.4065;Professor;Professor of Thermal Energy;Faculty;Geothermal Technology Department;2001;http://vivoweb.org/ontology/core#Department
+Damien;Avila;AvilaD@univ.edu;963.555.1352;963.777.7914;Assistant Professor;Assistant Professor I;Faculty;Geothermal Technology Department;2003;http://vivoweb.org/ontology/core#Department
